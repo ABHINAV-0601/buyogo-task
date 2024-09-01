@@ -109,6 +109,10 @@
     cursor: pointer;
 }
 
+.button.disabled {
+    background: gray !important;
+}
+
 .options {
     display: flex;
     flex-direction: column;
